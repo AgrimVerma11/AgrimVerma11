@@ -42,7 +42,7 @@ I'm a final-year Computer Engineering student at **Thapar (TIET)**, graduating i
 
 ---
 
-## 📌 Selected work
+## 📌 Featured projects
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ I'm a final-year Computer Engineering student at **Thapar (TIET)**, graduating i
 ## 📈 A snapshot
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=AgrimVerma11&show_icons=true&include_all_commits=true&hide_border=true&title_color=4F7942&icon_color=6B8E5A&text_color=8B949E&bg_color=00000000" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=AgrimVerma11&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=4F7942&icon_color=6B8E5A&text_color=8B949E&bg_color=00000000" />
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgrimVerma11&layout=compact&langs_count=6&hide=jupyter%20notebook&hide_border=true&title_color=4F7942&text_color=8B949E&bg_color=00000000" />
 </p>
 
