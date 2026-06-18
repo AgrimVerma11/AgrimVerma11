@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Agrim 👋</h1>
+<h1 align="center">Hey, I'm Agrim</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agrim-verma-104413323"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -76,7 +76,8 @@ I'm a final-year Computer Engineering student at **Thapar (TIET)**, graduating i
 
 <p align="center">
   <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=AgrimVerma11&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=4F7942&icon_color=6B8E5A&text_color=8B949E&bg_color=00000000" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgrimVerma11&layout=compact&langs_count=6&hide=jupyter%20notebook&hide_border=true&title_color=4F7942&text_color=8B949E&bg_color=00000000" />
+  <img height="165" alt="Top languages" src=https://github-readme-stats.vercel.app/api/top-langs/?username=AgrimVerma11&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&title_color=4F7942&text_color=8B949E&bg_color=00000000
+   />
 </p>
 
 ---
